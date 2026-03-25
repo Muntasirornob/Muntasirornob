@@ -36,9 +36,11 @@ Git | Linux | REST APIs
 
 🔗 LinkedIn: https://www.linkedin.com/in/muntasir-chowdhury-787b8b143/
 
-🎯 Career Goals
+🎯 Focus Areas 
 
-Transition into a Cloud / Data Engineer role
+- Cloud Engineering 
+- Data Engineering (ETL pipelines, orchestration)
+- Backend Systems (APIs, scalable services)
 
 Build production-grade distributed systems
 
