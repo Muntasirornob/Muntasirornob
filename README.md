@@ -67,8 +67,4 @@ src="https://img.shields.io/github/followers/Muntasirornob?logo=github&style=for
 
 <a href="http://www.github.com/Muntasirornob"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntasirornob&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Muntasirornob/ETL_Airflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasirornob&repo=ETL_Airflow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Muntasirornob/inventory-management-with-pos-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasirornob&repo=inventory-management-with-pos-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br/><br/>
-
-<div width="100%" align="center"><a href="https://github.com/Muntasirornob/data-pipeline-aws" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasirornob&repo=data-pipeline-aws&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Muntasirornob/AI-Powered-Interview-Prep" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasirornob&repo=AI-Powered-Interview-Prep&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
