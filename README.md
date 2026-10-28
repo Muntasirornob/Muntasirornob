@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I’m a backend engineer with 3+ years of experience building scalable APIs and distributed systems using Django and Laravel.
 
-Currently, I focus on cloud-native development on AWS, working with Docker, Kubernetes, and infrastructure automation to design reliable, production-ready systems.
+Currently, I focus on cloud-native development on AWS and AZURE working with Docker, Kubernetes, and infrastructure automation to design reliable, production-ready systems.
 
-I’m particularly interested in backend architecture, system design, and data-intensive applications.
+I’m particularly interested in backend architecture, system design, and ai based application.
 
 ---
 
