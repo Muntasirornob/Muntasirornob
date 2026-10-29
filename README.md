@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muntasir Chowdhury
 ===========================================================================================================================================
 
-💻 Backend Engineer | Cloud-Native Systems (AWS, Docker, Kubernetes)
+💻 Full Stack Engineer | Cloud-Native Systems (AZURE, AWS, Docker, Kubernetes)
 -------------------------------------------------------------------
 
-I’m a backend engineer with 3+ years of experience building scalable APIs and distributed systems using Django and Laravel.
+I’m a full-stack engineer with 3+ years of experience building scalable APIs and distributed systems using Django, FastAPI , Laravel and React.js.
 
 Currently, I focus on cloud-native development on AWS and AZURE working with Docker, Kubernetes, and infrastructure automation to design reliable, production-ready systems.
 
@@ -22,7 +22,7 @@ I’m particularly interested in backend architecture, system design, and ai bas
 🎯 Focus Areas
 
 - Backend Systems  
-- Cloud Engineering (AWS)  
+- Cloud Engineering (AWS, AZURE)  
 - Distributed Systems  
 
 ---
